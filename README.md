@@ -1,7 +1,7 @@
 # 🎨 Art Beckett: Your Friendly Neighborhood Web Developer
 ## 🌟 Crafting Digital Experiences with Passion and Skill 🌟
 
-Hello! I'm Art Beckett, a seasoned web developer with over 3 years of experience in the industry. I've had the pleasure of working on a variety of projects and even ran my studio in Swindon, UK for some time. I'm passionate about helping businesses and individuals establish and enhance their online presence. 😊
+Hello! I'm Art Beckett, a seasoned web developer with over 5 years of experience in the industry. I've had the pleasure of working on a variety of projects and even ran my studio in Swindon, UK for some time. I'm passionate about helping businesses and individuals establish and enhance their online presence. 😊
 
 ## 🎭 The Person Behind the Code: A Family Man with a Love for Creativity 🎭
 
